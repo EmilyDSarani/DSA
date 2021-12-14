@@ -1,7 +1,7 @@
 //Cristian is partner 1
  //Stack is first in, last out
  //this of it like rocks or jenga, the first one down will be on the bottom and as you stack it the last one will be up top. So to reach the bottom, you will have to take the top one away
- 
+
   //Class is an object, and with that you can have keys and values. We gave this class a bunch of methods and an array to use
   //to create a new one, you just state new Stack(); this way you dont have to re-type a ton of code
 
